@@ -20,7 +20,7 @@ DownUp is a cross-platform application built with Flutter to make downloading vi
     - Error notifications with retry options for failed downloads.
 
 4. **File Management**
-    - Save files in a dedicated folder `/Downloads/MyDownloader`.
+    - Save files in a dedicated folder `/Downloads/DownUp`.
     - Automatic file naming based on platform and video title.
 
 5. **Gallery Integration**
